@@ -1,4 +1,4 @@
-<h1>Northwind database in Java Spring Boot.</h1>
+<h1>Northwind database Rest Api in Java Spring Boot.</h1>
 <h3>Products Table:</h3>
 <br>
 <img src="https://github.com/hasanzaman22/RestApi-Java-Springboot/assets/88789119/23289a75-3943-47b2-8a25-097d1ace17d6" alt="Girl in a jacket">
